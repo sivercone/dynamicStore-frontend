@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="notranslate" />
+    <title>Dynamic Store</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="components/header/header.css">
+    <link rel="stylesheet" href="components/products/products.css">
+    <link rel="stylesheet" href="components/shopping/shopping.css">
+    <link rel="stylesheet" href="components/loader/loader.css">
+    <link rel="stylesheet" href="components/Error/error.css">
+
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="header__align" id="header">
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="product" id="product">
+        </div>
+    </div>
+
+    <div class="container" id="shopping">
+    </div>
+
+    <div class="loader__container" id="loader">
+    </div>
+
+    <div id="error">
+    </div>
+
+
+    <!-- constants and utils -->
+    <script src="constants/root.js"></script>
+    <script src="utils/localStorageUtil.js"></script>
+    
+    <!-- components -->
+    <script src="components/header/header.js"></script>
+    <script src="components/products/products.js"></script>
+    <script src="components/shopping/shopping.js"></script>
+    <script src="components/loader/loader.js"></script>
+    <script src="components/Error/error.js"></script>
+    
+    <!-- скрипт рендера опускаем на самый низ так как он должен происходить в последнюю очередь -->
+    <script src="index.js"></script>
+</body>
+</html>

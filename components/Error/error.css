@@ -1,0 +1,14 @@
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 96vh;
+
+    font-weight: 700;
+    font-size: 404px;
+    color: #181818;
+}

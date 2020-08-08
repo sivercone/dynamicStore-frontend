@@ -1,0 +1,58 @@
+[
+    {
+        "id": "id1",
+        "titlename": "Red Dead Redemption 2",
+        "developer": "Rockstar Games",
+        "img": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg",
+        "price": 899
+    },
+    {
+        "id": "id2",
+        "titlename": "Far Cry New Dawn",
+        "developer": "Ubisoft",
+        "img": "https://cdn1.epicgames.com/epic/offer/S2-FAR-CRY-ND-1280x1440-56f859f37b378e97f4a9de08c70bd9ca.jpg",
+        "price": 689
+    },
+    {
+        "id": "id3",
+        "titlename": "Control",
+        "developer": "Remedy Entertainment",
+        "img": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg",
+        "price": 849
+    },
+    {
+        "id": "id4",
+        "titlename": "Borderlands 3",
+        "developer": "Gearbox Software | 2K",
+        "img": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S2-1280x1440-4e2e8a65b68229dc833cf5c4773f23c4.jpg",
+        "price": 689
+    },
+    {
+        "id": "id5",
+        "titlename": "SnowRunner",
+        "developer": "Saber Interactive",
+        "img": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
+        "price": 549
+    },
+    {
+        "id": "id6",
+        "titlename": "Rogue Company: Standard Founder's Pack",
+        "developer": "Hi-Rez Studios",
+        "img": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Standard_PortraitOffer_1200x1600-1200x1600-1299fc6beec61a63e6e8eeda968fc926.jpg",
+        "price": 195
+    },
+    {
+        "id": "id7",
+        "titlename": "Grand Theft Auto V: Premium Edition",
+        "developer": "Rockstar Games",
+        "img": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+        "price": 629
+    },
+    {
+        "id": "id8",
+        "titlename": "ARK: Survival Evolved",
+        "developer": "Studio Wildcard",
+        "img": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+        "price": 299
+    }
+]

@@ -1,0 +1,36 @@
+.header {
+    padding: 15px 0;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    
+    background-color: #191919;
+}
+
+.header__align {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    font-size: 18px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+
+.header__logo img {
+    width: 25%;
+}
+
+.header__logo.shop:hover {
+    cursor: pointer;
+}
+
+.header__logo.shop:active {
+    transform: scale(1.05);
+}
